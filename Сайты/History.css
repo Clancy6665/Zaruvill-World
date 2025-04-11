@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+	padding: 0;
+	width: 100%;
+    text-shadow: 5px 5px 3px rgb(0, 0, 0, 0.5);
+        background-color: rgb(76, 94, 104);
+        background-image: linear-gradient(to top, rgba(161, 199, 221,0) 85%, rgba(161, 199, 221,0) 85%, rgb(11, 12, 12) 99%), url(Images/deep-space-1920-x-1080-wallpaper-kpyq3onz71fil8vk.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        font-family: "Source Code Pro", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 32px;
+  color:rgb(207, 222, 226)
+}
+.container2{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.container2 a{
+    text-decoration: none;
+    color:rgb(207, 222, 226)
+}
+.container3{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: left;
+    font-size: 25px;
+    letter-spacing: 5px;
+    text-decoration: none;
+}
+.content {
+    padding: 70px;
+    font-size: 40px;
+    text-align: left;
+    text-shadow: 5px 5px 3px rgba(0, 255, 200, 0.5);
+}
+h1{
+    text-align: center;
+}
+p{
+    padding: 30px
+}
+.Kingdom{
+    
+}
+.wind{
+    color:rgb(168, 233, 211);
+    text-shadow: 5px 5px 3px rgba(68, 133, 113, 0.5);
+    padding: 10px;
+    background-image: url(Images/Царство\ ветров.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.water{
+    color:rgb(151, 216, 236);
+    text-shadow: 5px 5px 3px rgba(128, 187, 255, 0.5);
+    padding: 10px;
+    background-image: url(Images/Царство\ воды.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.earth{
+    color:rgb(233, 207, 168);
+    text-shadow: 5px 5px 3px rgba(255, 220, 125, 0.5);
+    padding: 10px;
+    background-image: url(Images/Earth\ kingdom.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
