@@ -1,0 +1,227 @@
+body{
+    margin: 0;
+	padding: 0;
+	width: 100%;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+        background-color: #4c5e68;
+        background-image: linear-gradient(to bottom, rgba(161, 199, 221,0) 0%, rgba(161, 199, 221,0) 0%, rgb(105, 114, 119) 25%), url(ZW.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        font-family: "Source Code Pro", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.section-container {
+width: 100%;
+}
+.container2{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+
+}
+.container2 a{
+    text-decoration: none;
+    color:rgb(207, 222, 226)
+}
+.container68 {
+  font-size: 32px;
+  text-decoration: none;
+  color:rgb(207, 222, 226);
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  background-image: linear-gradient(to top, rgba(161, 199, 221,0) 80%, rgba(161, 199, 221,0) 80%, rgb(105, 114, 119) 100%), linear-gradient(to bottom, rgba(161, 199, 221,0) 80%, rgba(161, 199, 221,0) 80%, rgb(10, 10, 10)100%), url(img/Без\ названия1_20250326133222.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.container69{
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-around;
+  font-size: 28px;
+  text-decoration: none;
+  color:rgb(207, 222, 226);
+  padding: 6px;
+  }
+.section-container {
+  width: 100%;
+}
+.text1{
+    color: aquamarine;
+    -webkit-text-stroke: 1px #00776d;
+}
+.text2{
+    color: #adceff;
+    -webkit-text-stroke: 1px #8255ff;
+}
+.text3{
+    color: rgb(255, 195, 140);
+    -webkit-text-stroke: 1px #c88200;
+}
+.text4{
+    color: rgb(255, 142, 142);
+    -webkit-text-stroke: 1px #771200;
+}
+.container3{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: left;
+    font-size: 25px;
+    letter-spacing: 5px;
+    text-decoration: none;
+    color:rgb(207, 222, 226)
+}
+.container4{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    color:rgb(207, 222, 226)
+}
+.content {
+    padding: 100px;
+    font-size: 32px;
+    text-align: center;
+}
+.content2 {
+    padding: 40px;
+    text-align: left;
+    font-size: 32px;
+}
+.content3 {
+    padding: 40px;
+    font-size: 32px;
+}
+.content4 {
+    padding: 40px;
+}
+.content5{
+    padding: 40px;
+    text-align: left;
+    font-size: 32px;
+    width: 65%;
+}
+#parent {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	border: 2px solid rgb(76, 94, 104);
+	padding: 10px;
+	width: 98.5%;
+}
+#parent > div {
+	padding: 10px;
+	border: 1px solid rgb(76, 94, 104);
+}
+.register-button {
+    background-color: #64c4ff;
+}
+.container5{
+    width: 98%;
+}
+.container12{
+	font-size: 20px;
+    text-decoration: none;
+    color:rgb(207, 222, 226)
+}
+.container13{
+	font-size: 20px;
+    text-decoration: none;
+    color:rgb(207, 222, 226);
+    background-color: rgb(10, 10, 10);
+    background-image: linear-gradient(to left, rgba(161, 199, 221,0) 50%, rgba(161, 199, 221,0) 50%, rgb(10, 10, 10) 100%), linear-gradient(to top, rgba(161, 199, 221,0) 80%, rgba(161, 199, 221,0) 80%, rgb(10, 10, 10) 100%),linear-gradient(to bottom, rgba(161, 199, 221,0) 80%, rgba(161, 199, 221,0) 80%, rgb(10, 10, 10) 100%), url(img/Без\ названия138_20250301210212.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position-x: right;
+}
+.main-footer-div{
+	width: 100%;
+	display: flex;
+}
+.main-footer{
+	background-color: rgb(108, 154, 168);
+    text-decoration: none;
+    color:rgb(207, 222, 226);
+    text-align: center;
+}
+.main-footer_form{
+	background-color: rgb(108, 154, 168);
+	width: 40%;
+	display: flex;
+    flex-direction: column;
+}
+.stolbec{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.main-section{
+    font-size: 18px;    
+    margin: 20px 0;  
+}
+.cta { 
+    background-color: rgb(110, 138, 151);
+    padding: 50px 0; 
+    text-align: center; 
+    text-decoration: none;
+    color:rgb(207, 222, 226);
+    background-image: linear-gradient(to top, rgba(161, 199, 221,0) 95%, rgba(161, 199, 221,0) 95%, rgb(10, 10, 10) 100%)
+}
+.container25 {  
+    max-width: 120em;  
+    margin: 0 auto;  
+    padding: 20px;  
+    background-color:rgb(110, 138, 151);     
+    border: none;
+    font-size: 32px; 
+    width: 60%;
+}  
+.signup-container { 
+    display: flex; 
+    justify-content: center; 
+    margin-bottom: 30px;
+    color:rgb(207, 222, 226);
+}
+.logo{
+    display: flex;  
+    align-items: center;  
+}
+.square16{
+	background-color: rgb(108, 154, 168);
+	width: 500px;
+	height: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.image-text-container {
+    position: relative;
+    display: inline-block;
+}
+.text-overlay {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    text-shadow: 0px 0px 2px rgba(0,0,0);
+}
+.main-footer-div{
+	width: 90%;
+}
+.main-footer_contacts{
+	width: 100%;
+	background-color:rgb(108, 154, 168);
+    display: flex;
+    justify-content: center;
+    letter-spacing: 3px;
+}
+h2{
+    font-size: 50px;
+}
